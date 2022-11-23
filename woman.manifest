@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 581471902
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2a4f5c01e1614ab82f22c7d9a79ac89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Woman/woman_33.jpg
+- Assets/Woman/woman_12.jpg
+- Assets/Woman/woman_42.jpg
+- Assets/Woman/woman_04.jpg
+- Assets/Woman/woman_09.jpg
+- Assets/Woman/woman_45.jpg
+- Assets/Woman/woman_26.jpg
+- Assets/Woman/woman_38.jpg
+- Assets/Woman/woman_44.jpg
+- Assets/Woman/woman_07.jpg
+- Assets/Woman/woman_25.jpg
+- Assets/Woman/woman_32.jpg
+- Assets/Woman/woman_15.jpg
+- Assets/Woman/woman_41.jpg
+- Assets/Woman/woman_39.jpg
+- Assets/Woman/woman_23.jpg
+- Assets/Woman/woman_30.jpg
+- Assets/Woman/woman_08.jpg
+- Assets/Woman/woman_35.jpg
+- Assets/Woman/woman_34.jpg
+- Assets/Woman/woman_18.jpg
+- Assets/Woman/woman_21.jpg
+- Assets/Woman/woman_19.jpg
+- Assets/Woman/woman_01.jpg
+- Assets/Woman/woman_28.jpg
+- Assets/Woman/woman_11.jpg
+- Assets/Woman/woman_43.jpg
+- Assets/Woman/woman_17.jpg
+- Assets/Woman/woman_02.jpg
+- Assets/Woman/woman_29.jpg
+- Assets/Woman/woman_14.jpg
+- Assets/Woman/woman_24.jpg
+- Assets/Woman/woman_37.jpg
+- Assets/Woman/woman_05.jpg
+- Assets/Woman/woman_00.jpg
+- Assets/Woman/woman_16.jpg
+- Assets/Woman/woman_36.jpg
+- Assets/Woman/woman_10.jpg
+- Assets/Woman/woman_22.jpg
+- Assets/Woman/woman_13.jpg
+- Assets/Woman/woman_46.jpg
+- Assets/Woman/woman_40.jpg
+- Assets/Woman/woman_03.jpg
+- Assets/Woman/woman_27.jpg
+- Assets/Woman/woman_06.jpg
+- Assets/Woman/woman_20.jpg
+- Assets/Woman/woman_31.jpg
+Dependencies: []
