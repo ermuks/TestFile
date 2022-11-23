@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 3952775959
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: woman
+      Dependencies: {}
+    Info_1:
+      Name: grenade
+      Dependencies: {}
+    Info_2:
+      Name: volcano
+      Dependencies: {}
