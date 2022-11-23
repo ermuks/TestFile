@@ -1,22 +1,22 @@
 {
     "files": [
         {
-            "fileURL": "https://github.com/ermuks/TestFile/blob/main/AssetBundles?raw=true",
+            "fileURL": "https://github.com/ermuks/TestFile/blob/main/AssetBundles.bundle?raw=true",
             "folder": "DataFolder",
             "fileLength": 1084
         },
         {
-            "fileURL": "https://github.com/ermuks/TestFile/blob/main/grenade?raw=true",
+            "fileURL": "https://github.com/ermuks/TestFile/blob/main/grenade.bundle?raw=true",
             "folder": "DataFolder",
             "fileLength": 5658942
         },
         {
-            "fileURL": "https://github.com/ermuks/TestFile/blob/main/volcano?raw=true",
+            "fileURL": "https://github.com/ermuks/TestFile/blob/main/volcano.bundle?raw=true",
             "folder": "DataFolder",
             "fileLength": 24209300
         },
         {
-            "fileURL": "https://github.com/ermuks/TestFile/blob/main/woman?raw=true",
+            "fileURL": "https://github.com/ermuks/TestFile/blob/main/woman.bundle?raw=true",
             "folder": "DataFolder",
             "fileLength": 10932006
         },
