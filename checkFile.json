@@ -1,0 +1,36 @@
+{
+    "files": [
+        {
+            "fileURL": "https://github.com/ermuks/TestFile/blob/main/AssetBundles?raw=true",
+            "fileLength": 1084
+        },
+        {
+            "fileURL": "https://github.com/ermuks/TestFile/blob/main/grenade?raw=true",
+            "fileLength": 5658942
+        },
+        {
+            "fileURL": "https://github.com/ermuks/TestFile/blob/main/volcano?raw=true",
+            "fileLength": 24209300
+        },
+        {
+            "fileURL": "https://github.com/ermuks/TestFile/blob/main/woman?raw=true",
+            "fileLength": 10932006
+        },
+        {
+            "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/AssetBundles.manifest",
+            "fileLength": 243
+        },
+        {
+            "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/grenade.manifest",
+            "fileLength": 3233
+        },
+        {
+            "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/volcano.manifest",
+            "fileLength": 4774
+        },
+        {
+            "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/woman.manifest",
+            "fileLength": 1700
+        }
+    ]
+}
