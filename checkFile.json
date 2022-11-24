@@ -3,7 +3,7 @@
         {
             "fileURL": "https://github.com/ermuks/TestFile/blob/main/AssetBundles.bundle?raw=true",
             "folder": "DataFolder",
-            "fileLength": 1085
+            "fileLength": 1108
         },
         {
             "fileURL": "https://github.com/ermuks/TestFile/blob/main/grenade.bundle?raw=true",
@@ -23,7 +23,7 @@
         {
             "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/AssetBundles.manifest",
             "folder": "DataFolder",
-            "fileLength": 242
+            "fileLength": 298
         },
         {
             "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/grenade.manifest",
@@ -74,6 +74,16 @@
             "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/woman.json",
             "folder": "DataFolder",
             "fileLength": 583
-        }
+        },
+        {
+            "fileURL": "https://github.com/ermuks/TestFile/blob/main/balloon.bundle?raw=true",
+            "folder": "DataFolder",
+            "fileLength": 54919775
+        },
+        {
+            "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/balloon.json",
+            "folder": "DataFolder",
+            "fileLength": 3535
+        },
     ]
 }
