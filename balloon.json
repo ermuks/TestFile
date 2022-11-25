@@ -42,6 +42,12 @@
             {
               "delay": 50000,
               "and": true,
+              "delta": 2,
+              "eventKey": "Play"
+            },
+            {
+              "delay": 50000,
+              "and": true,
               "delta": 3,
               "eventKey": "Play"
             },
