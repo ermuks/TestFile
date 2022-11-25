@@ -1,1 +1,55 @@
-{ "url": "D:/Unity Projects/NCT_Interaction_Modules 221024_1/Assets/Videos/grenade.mp4", "motions": [ { "motionPath": [ { "points": [ { "position": { "x": 0.48, "y": 0.07 }, "range": 0.15, "isPass": false, "isMustPass": false, "targetFrame": 31 }, { "position": { "x": 0.48, "y": 0.62 }, "range": 0.15, "isPass": false, "isMustPass": true, "targetFrame": 2 }, { "position": { "x": 0.48, "y": 0.1 }, "range": 0.2, "isPass": false, "isMustPass": false, "targetFrame": 54 } ], "isSelected": false, "isFinished": false, "eventKeyDelay": [ { "delay": 1.2000000476837159, "and": true, "delta": 1, "eventKey": "Next 0001 23" } ], "rewindTargetFrame": 35, "playTargetFrame": 89 } ] } ]}
+{
+  "url": "D:/Unity Projects/NCT_Interaction_Modules 221024_1/Assets/Videos/grenade.mp4",
+  "motions": [
+    {
+      "motionPath": [
+        {
+          "points": [
+            {
+              "position": {
+                "x": 0.48,
+                "y": 0.07
+              },
+              "range": 0.15,
+              "isPass": false,
+              "isMustPass": false,
+              "targetFrame": 29
+            },
+            {
+              "position": {
+                "x": 0.48,
+                "y": 0.62
+              },
+              "range": 0.15,
+              "isPass": false,
+              "isMustPass": true,
+              "targetFrame": 2
+            },
+            {
+              "position": {
+                "x": 0.48,
+                "y": 0.1
+              },
+              "range": 0.2,
+              "isPass": false,
+              "isMustPass": false,
+              "targetFrame": 29
+            }
+          ],
+          "isSelected": false,
+          "isFinished": false,
+          "eventKeyDelay": [
+            {
+              "delay": 1.2000000476837159,
+              "and": true,
+              "delta": 1,
+              "eventKey": "Next 0001 23"
+            }
+          ],
+          "rewindTargetFrame": 29,
+          "playTargetFrame": 75
+        }
+      ]
+    }
+  ]
+}
