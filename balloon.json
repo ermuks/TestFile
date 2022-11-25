@@ -28,12 +28,12 @@
             {
               "position": {
                 "x": 0.48,
-                "y": 0.1
+                "y": 0.0
               },
-              "range": 0.2,
+              "range": 0.4,
               "isPass": false,
               "isMustPass": false,
-              "targetFrame": 29
+              "targetFrame": 30
             }
           ],
           "isSelected": false,
@@ -52,7 +52,7 @@
               "eventKey": "Play"
             }
           ],
-          "rewindTargetFrame": 29,
+          "rewindTargetFrame": 30,
           "playTargetFrame": 75
         }
       ]
