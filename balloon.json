@@ -7,8 +7,8 @@
           "points": [
             {
               "position": {
-                "x": 0.48,
-                "y": 0.07
+                "x": 0.5,
+                "y": 0.1
               },
               "range": 0.15,
               "isPass": false,
@@ -17,8 +17,8 @@
             },
             {
               "position": {
-                "x": 0.48,
-                "y": 0.62
+                "x": 0.5,
+                "y": 0.82
               },
               "range": 0.15,
               "isPass": false,
@@ -40,10 +40,16 @@
           "isFinished": false,
           "eventKeyDelay": [
             {
-              "delay": 1.2000000476837159,
+              "delay": 50000,
               "and": true,
-              "delta": 1,
-              "eventKey": "Next 0001 23"
+              "delta": 3,
+              "eventKey": "Play"
+            },
+            {
+              "delay": 50000,
+              "and": true,
+              "delta": 4,
+              "eventKey": "Play"
             }
           ],
           "rewindTargetFrame": 29,
