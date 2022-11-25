@@ -33,7 +33,7 @@
               "delay": 50000,
               "and": false,
               "delta": 1,
-              "eventKey": "Rewind"
+              "eventKey": "Play"
             }
           ],
           "rewindTargetFrame": 1,
@@ -76,8 +76,8 @@
               "eventKey": "Play"
             }
           ],
-          "rewindTargetFrame": 1,
-          "playTargetFrame": 47
+          "rewindTargetFrame": 47,
+          "playTargetFrame": 1
         }
       ]
     }
