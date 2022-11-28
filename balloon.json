@@ -58,6 +58,7 @@
               "eventKey": "Play"
             }
           ],
+          "defaultEventKey": "Bounce",
           "rewindTargetFrame": 30,
           "playTargetFrame": 75
         }
