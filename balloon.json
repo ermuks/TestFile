@@ -23,7 +23,7 @@
               "range": 0.15,
               "isPass": false,
               "isMustPass": false,
-              "targetFrame": 2
+              "targetFrame": 1
             },
             {
               "position": {
@@ -33,7 +33,7 @@
               "range": 0.5,
               "isPass": false,
               "isMustPass": false,
-              "targetFrame": 32
+              "targetFrame": 31
             }
           ],
           "isSelected": false,
