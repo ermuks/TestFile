@@ -33,7 +33,7 @@
               "range": 0.5,
               "isPass": false,
               "isMustPass": false,
-              "targetFrame": 30
+              "targetFrame": 32
             }
           ],
           "isSelected": false,
@@ -59,7 +59,7 @@
             }
           ],
           "defaultEventKey": "Bounce",
-          "rewindTargetFrame": 30,
+          "rewindTargetFrame": 32,
           "playTargetFrame": 75
         }
       ]
