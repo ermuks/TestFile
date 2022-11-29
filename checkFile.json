@@ -10,7 +10,6 @@
       "folder": "DataFolder",
       "fileLength": 353
     },
-    //////////////////////////////////////////////////////////////////////////////////////////////////////
     {
       "fileURL": "https://github.com/ermuks/TestFile/blob/main/zerotwo.bundle?raw=true",
       "folder": "DataFolder",
@@ -21,7 +20,6 @@
       "folder": "DataFolder",
       "fileLength": 4033
     },
-    //////////////////////////////////////////////////////////////////////////////////////////////////////
     {
       "fileURL": "https://github.com/ermuks/TestFile/blob/main/woman.bundle?raw=true",
       "folder": "DataFolder",
@@ -32,7 +30,6 @@
       "folder": "DataFolder",
       "fileLength": 1700
     },
-    //////////////////////////////////////////////////////////////////////////////////////////////////////
     {
       "fileURL": "https://github.com/ermuks/TestFile/blob/main/balloon.bundle?raw=true",
       "folder": "DataFolder",
@@ -43,7 +40,6 @@
       "folder": "DataFolder",
       "fileLength": 3535
     },
-    //////////////////////////////////////////////////////////////////////////////////////////////////////
     {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/memberList.json",
       "folder": "DataFolder",
@@ -79,7 +75,6 @@
       "folder": "Resources/Sprites/Member",
       "fileLength": 181070
     },
-    //////////////////////////////////////////////////////////////////////////////////////////////////////
     {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/zerotwo.json",
       "folder": "DataFolder",
