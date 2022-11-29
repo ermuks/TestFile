@@ -11,16 +11,6 @@
       "fileLength": 407
     },
     {
-      "fileURL": "https://github.com/ermuks/TestFile/blob/main/zerotwo.bundle?raw=true",
-      "folder": "DataFolder",
-      "fileLength": 29774979
-    },
-    {
-      "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/zerotwo.manifest",
-      "folder": "DataFolder",
-      "fileLength": 4033
-    },
-    {
       "fileURL": "https://github.com/ermuks/TestFile/blob/main/woman.bundle?raw=true",
       "folder": "DataFolder",
       "fileLength": 19326169
@@ -71,11 +61,6 @@
       "fileLength": 11015
     },
     {
-      "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/zeroTwo.jpg",
-      "folder": "Resources/Sprites/Member",
-      "fileLength": 70878
-    },
-    {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/Balloon_1.jpg",
       "folder": "Resources/Sprites/Member",
       "fileLength": 285735
@@ -89,11 +74,6 @@
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/Woman_2.jpg",
       "folder": "Resources/Sprites/Member",
       "fileLength": 94010
-    },
-    {
-      "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/zerotwo.json",
-      "folder": "DataFolder",
-      "fileLength": 1130
     },
     {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/woman.json",
