@@ -1,5 +1,5 @@
 {
-  "frame": 24,
+  "frame": 60,
   "motions": [
     {
       "motionPath": [
@@ -53,7 +53,7 @@
               "range": 0.05,
               "isPass": false,
               "isMustPass": false,
-              "targetFrame": 24
+              "targetFrame": 107
             },
             {
               "position": {
@@ -63,7 +63,7 @@
               "range": 0.05,
               "isPass": false,
               "isMustPass": false,
-              "targetFrame": 1
+              "targetFrame": 145
             }
           ],
           "isSelected": false,
@@ -91,7 +91,7 @@
               "range": 0.05,
               "isPass": false,
               "isMustPass": false,
-              "targetFrame": 24
+              "targetFrame": 107
             },
             {
               "position": {
@@ -101,7 +101,7 @@
               "range": 0.05,
               "isPass": false,
               "isMustPass": false,
-              "targetFrame": 1
+              "targetFrame": 145
             }
           ],
           "isSelected": false,
