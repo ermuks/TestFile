@@ -88,9 +88,9 @@
             {
               "position": {
                 "x": 0.5,
-                "y": 0.6
+                "y": 0.55
               },
-              "range": 0.05,
+              "range": 0.1,
               "isPass": false,
               "isMustPass": false,
               "targetFrame": 107
@@ -100,7 +100,7 @@
                 "x": 0.5,
                 "y": 0.7
               },
-              "range": 0.05,
+              "range": 0.2,
               "isPass": false,
               "isMustPass": false,
               "targetFrame": 145
@@ -128,7 +128,7 @@
                 "x": 0.5,
                 "y": 0.4
               },
-              "range": 0.05,
+              "range": 0.1,
               "isPass": false,
               "isMustPass": false,
               "targetFrame": 107
@@ -136,9 +136,9 @@
             {
               "position": {
                 "x": 0.5,
-                "y": 0.3
+                "y": 0.2
               },
-              "range": 0.05,
+              "range": 0.2,
               "isPass": false,
               "isMustPass": false,
               "targetFrame": 145
