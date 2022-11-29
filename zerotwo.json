@@ -1,0 +1,67 @@
+{
+  "frame": 60,
+  "motions": [
+    {
+      "motionPath": [
+        {
+          "points": [
+            {
+              "position": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "range": 0.25,
+              "isPass": false,
+              "isMustPass": false,
+              "targetFrame": 9
+            },
+            {
+              "position": {
+                "x": 0.25,
+                "y": 0.5
+              },
+              "range": 0.25,
+              "isPass": false,
+              "isMustPass": false,
+              "targetFrame": 1
+            },
+            {
+              "position": {
+                "x": 0.75,
+                "y": 0.5
+              },
+              "range": 0.25,
+              "isPass": true,
+              "isMustPass": false,
+              "targetFrame": 27
+            },
+            {
+              "position": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "range": 0.8,
+              "isPass": false,
+              "isMustPass": false,
+              "targetFrame": 1
+            }
+          ],
+          "isSelected": false,
+          "isFinished": false,
+          "eventKeyDelay": [
+            {
+              "delay": 50000,
+              "and": false,
+              "delta": 1,
+              "eventKey": "Loop"
+            }
+          ],
+          "startFrame": 9,
+          "defaultEventKey": "Rewind",
+          "rewindTargetFrame": 9,
+          "playTargetFrame": 114
+        }
+      ]
+    }
+  ]
+}
