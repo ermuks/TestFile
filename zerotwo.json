@@ -56,6 +56,8 @@
               "eventKey": "Loop"
             }
           ],
+          "loopStartFrame": 1,
+          "loopEndFrame": 114,
           "startFrame": 9,
           "defaultEventKey": "Rewind",
           "rewindTargetFrame": 9,
