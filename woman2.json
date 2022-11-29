@@ -10,17 +10,17 @@
                 "x": 0,
                 "y": 0.5
               },
-              "range": 0.2,
+              "range": 0.3,
               "isPass": false,
               "isMustPass": false,
-              "targetFrame": 6
+              "targetFrame": 56
             },
             {
               "position": {
                 "x": 1,
                 "y": 0.5
               },
-              "range": 0.2,
+              "range": 0.4,
               "isPass": false,
               "isMustPass": false,
               "targetFrame": 106
@@ -37,7 +37,47 @@
             }
           ],
           "rewindTargetFrame": 56,
-          "playTargetFrame": 106
+          "playTargetFrame": 56
+        }
+      ]
+    },
+    {
+      "motionPath": [
+        {
+          "points": [
+            {
+              "position": {
+                "x": 1,
+                "y": 0.5
+              },
+              "range": 0.3,
+              "isPass": false,
+              "isMustPass": false,
+              "targetFrame": 56
+            },
+            {
+              "position": {
+                "x": 0,
+                "y": 0.5
+              },
+              "range": 0.4,
+              "isPass": false,
+              "isMustPass": false,
+              "targetFrame": 6
+            }
+          ],
+          "isSelected": false,
+          "isFinished": false,
+          "eventKeyDelay": [
+            {
+              "delay": 50000,
+              "and": false,
+              "delta": 1,
+              "eventKey": "Rewind"
+            }
+          ],
+          "rewindTargetFrame": 56,
+          "playTargetFrame": 56
         }
       ]
     },
