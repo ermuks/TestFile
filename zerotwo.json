@@ -7,13 +7,13 @@
           "points": [
             {
               "position": {
-                "x": 0.5,
+                "x": 0.75,
                 "y": 0.5
               },
               "range": 0.25,
               "isPass": false,
               "isMustPass": false,
-              "targetFrame": 9
+              "targetFrame": 1
             },
             {
               "position": {
@@ -21,29 +21,9 @@
                 "y": 0.5
               },
               "range": 0.25,
-              "isPass": false,
-              "isMustPass": false,
-              "targetFrame": 1
-            },
-            {
-              "position": {
-                "x": 0.75,
-                "y": 0.5
-              },
-              "range": 0.25,
               "isPass": true,
               "isMustPass": false,
-              "targetFrame": 27
-            },
-            {
-              "position": {
-                "x": 0.5,
-                "y": 0.5
-              },
-              "range": 0.8,
-              "isPass": false,
-              "isMustPass": false,
-              "targetFrame": 1
+              "targetFrame": 9
             }
           ],
           "isSelected": false,
