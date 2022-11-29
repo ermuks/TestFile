@@ -1,1 +1,19 @@
-{"member":[{"code":"volcano","name":"화산","picture":"Volcano_1"},{"code":"balloon","name":"물풍선","picture":"Balloon_1"},{"code":"woman","name":"여자","picture":"Woman_1"}]}
+{
+  "member": [
+    {
+      "code": "zerotwo",
+      "name": "제로투",
+      "picture": "zeroTwo.jpg"
+    },
+    {
+      "code": "woman",
+      "name": "여자",
+      "picture": "Woman_1.jpg"
+    },
+    {
+      "code": "balloon",
+      "name": "물풍선",
+      "picture": "Balloon_1.jpg"
+    }
+  ]
+}
