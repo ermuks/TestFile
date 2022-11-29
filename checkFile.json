@@ -3,47 +3,51 @@
     {
       "fileURL": "https://github.com/ermuks/TestFile/blob/main/AssetBundles.bundle?raw=true",
       "folder": "DataFolder",
-      "fileLength": 1108
+      "fileLength": 1135
     },
     {
-      "fileURL": "https://github.com/ermuks/TestFile/blob/main/grenade.bundle?raw=true",
+      "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/AssetBundles.manifest",
       "folder": "DataFolder",
-      "fileLength": 9621034
+      "fileLength": 353
+    },
+    //////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "fileURL": "https://github.com/ermuks/TestFile/blob/main/zerotwo.bundle?raw=true",
+      "folder": "DataFolder",
+      "fileLength": 29774979
     },
     {
-      "fileURL": "https://github.com/ermuks/TestFile/blob/main/volcano.bundle?raw=true",
+      "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/zerotwo.manifest",
       "folder": "DataFolder",
-      "fileLength": 47157792
+      "fileLength": 4033
     },
+    //////////////////////////////////////////////////////////////////////////////////////////////////////
     {
       "fileURL": "https://github.com/ermuks/TestFile/blob/main/woman.bundle?raw=true",
       "folder": "DataFolder",
       "fileLength": 19326169
     },
     {
-      "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/AssetBundles.manifest",
-      "folder": "DataFolder",
-      "fileLength": 298
-    },
-    {
-      "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/grenade.manifest",
-      "folder": "DataFolder",
-      "fileLength": 3233
-    },
-    {
-      "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/volcano.manifest",
-      "folder": "DataFolder",
-      "fileLength": 4774
-    },
-    {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/woman.manifest",
       "folder": "DataFolder",
       "fileLength": 1700
     },
+    //////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "fileURL": "https://github.com/ermuks/TestFile/blob/main/balloon.bundle?raw=true",
+      "folder": "DataFolder",
+      "fileLength": 54919775
+    },
+    {
+      "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/balloon.manifest",
+      "folder": "DataFolder",
+      "fileLength": 3535
+    },
+    //////////////////////////////////////////////////////////////////////////////////////////////////////
     {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/memberList.json",
       "folder": "DataFolder",
-      "fileLength": 183
+      "fileLength": 325
     },
     {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/Member1.jpg",
@@ -61,9 +65,9 @@
       "fileLength": 11015
     },
     {
-      "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/Volcano_1.jpg",
+      "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/zeroTwo.jpg",
       "folder": "Resources/Sprites/Member",
-      "fileLength": 326052
+      "fileLength": 70878
     },
     {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/Balloon_1.jpg",
@@ -75,30 +79,21 @@
       "folder": "Resources/Sprites/Member",
       "fileLength": 181070
     },
+    //////////////////////////////////////////////////////////////////////////////////////////////////////
     {
-      "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/grenade.json",
+      "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/zerotwo.json",
       "folder": "DataFolder",
-      "fileLength": 679
-    },
-    {
-      "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/volcano.json",
-      "folder": "DataFolder",
-      "fileLength": 1028
+      "fileLength": 1588
     },
     {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/woman.json",
       "folder": "DataFolder",
-      "fileLength": 1960
-    },
-    {
-      "fileURL": "https://github.com/ermuks/TestFile/blob/main/balloon.bundle?raw=true",
-      "folder": "DataFolder",
-      "fileLength": 54919775
+      "fileLength": 1956
     },
     {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/balloon.json",
       "folder": "DataFolder",
-      "fileLength": 1637
+      "fileLength": 1631
     }
   ]
 }
