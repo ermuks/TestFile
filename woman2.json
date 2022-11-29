@@ -1,0 +1,141 @@
+{
+  "frame": 24,
+  "motions": [
+    {
+      "motionPath": [
+        {
+          "points": [
+            {
+              "position": {
+                "x": 0,
+                "y": 0.5
+              },
+              "range": 0.2,
+              "isPass": false,
+              "isMustPass": false,
+              "targetFrame": 6
+            },
+            {
+              "position": {
+                "x": 1,
+                "y": 0.5
+              },
+              "range": 0.2,
+              "isPass": false,
+              "isMustPass": false,
+              "targetFrame": 106
+            }
+          ],
+          "isSelected": false,
+          "isFinished": false,
+          "eventKeyDelay": [
+            {
+              "delay": 50000,
+              "and": false,
+              "delta": 1,
+              "eventKey": "Rewind"
+            }
+          ],
+          "rewindTargetFrame": 56,
+          "playTargetFrame": 106
+        }
+      ]
+    },
+    {
+      "motionPath": [
+        {
+          "points": [
+            {
+              "position": {
+                "x": 0.5,
+                "y": 0.6
+              },
+              "range": 0.05,
+              "isPass": false,
+              "isMustPass": false,
+              "targetFrame": 24
+            },
+            {
+              "position": {
+                "x": 0.5,
+                "y": 0.7
+              },
+              "range": 0.05,
+              "isPass": false,
+              "isMustPass": false,
+              "targetFrame": 1
+            }
+          ],
+          "isSelected": false,
+          "isFinished": false,
+          "eventKeyDelay": [
+            {
+              "delay": 50000,
+              "and": false,
+              "delta": 1,
+              "eventKey": "Pingpong"
+            }
+          ],
+          "pingpongReturnFrame": 147,
+          "pingpongEndFrame": 107,
+          "rewindTargetFrame": 107,
+          "playTargetFrame": 107
+        },
+        {
+          "points": [
+            {
+              "position": {
+                "x": 0.5,
+                "y": 0.4
+              },
+              "range": 0.05,
+              "isPass": false,
+              "isMustPass": false,
+              "targetFrame": 24
+            },
+            {
+              "position": {
+                "x": 0.5,
+                "y": 0.3
+              },
+              "range": 0.05,
+              "isPass": false,
+              "isMustPass": false,
+              "targetFrame": 1
+            }
+          ],
+          "isSelected": false,
+          "isFinished": false,
+          "eventKeyDelay": [
+            {
+              "delay": 50000,
+              "and": false,
+              "delta": 1,
+              "eventKey": "Pingpong"
+            }
+          ],
+          "pingpongReturnFrame": 147,
+          "pingpongEndFrame": 107,
+          "rewindTargetFrame": 107,
+          "playTargetFrame": 107
+        }
+      ]
+    }
+  ],
+  "idleFrames": {
+    "minDelay": 1.8,
+    "maxDelay": 6.5,
+    "idleList": [
+      {
+        "weight": 100,
+        "startFrame": 1,
+        "endFrame": 5
+      },
+      {
+        "weight": 100,
+        "startFrame": 50,
+        "endFrame": 62
+      }
+    ]
+  }
+}
