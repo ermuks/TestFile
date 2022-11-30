@@ -168,13 +168,23 @@
     "idleList": [
       {
         "weight": 100,
-        "startFrame": 1,
-        "endFrame": 5
+        "frames": [
+          1,
+          5,
+          1,
+          5
+        ],
+        "speed": 0.8
       },
       {
         "weight": 100,
-        "startFrame": 50,
-        "endFrame": 62
+        "frames": [
+          56,
+          50,
+          62,
+          56
+        ],
+        "speed": 0.8
       }
     ]
   }
