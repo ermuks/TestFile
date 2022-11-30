@@ -163,6 +163,7 @@
     }
   ],
   "idleFrames": {
+    "defaultFrame": 56,
     "minDelay": 1.8,
     "maxDelay": 6.5,
     "idleList": [
