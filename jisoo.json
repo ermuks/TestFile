@@ -23,7 +23,7 @@
               "range": 0.4,
               "isPass": false,
               "isMustPass": false,
-              "targetFrame": 150
+              "targetFrame": 74
             }
           ],
           "isSelected": false,
@@ -63,7 +63,7 @@
               "range": 0.4,
               "isPass": false,
               "isMustPass": false,
-              "targetFrame": 74
+              "targetFrame": 150
             }
           ],
           "isSelected": false,
@@ -173,6 +173,8 @@
       {
         "weight": 400,
         "frames": [
+          1,
+          73,
           1,
           73
         ],
