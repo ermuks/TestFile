@@ -2,37 +2,37 @@
   "files": [
     {
       "fileURL": "https://github.com/ermuks/TestFile/blob/main/AssetBundles.bundle?raw=true",
-      "folder": "DataFolder",
+      "folder": "public/nct/DataFiles",
       "fileLength": 1025
     },
     {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/AssetBundles.manifest",
-      "folder": "DataFolder",
+      "folder": "public/nct/DataFiles",
       "fileLength": 133
     },
     {
       "fileURL": "https://github.com/ermuks/TestFile/blob/main/jisoo.bundle?raw=true",
-      "folder": "DataFolder",
+      "folder": "public/nct/DataFiles",
       "fileLength": 489960092
     },
     {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/jisoo.manifest",
-      "folder": "DataFolder",
+      "folder": "public/nct/DataFiles",
       "fileLength": 1700
     },
     {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/memberList.json",
-      "folder": "DataFolder",
+      "folder": "public/nct/DataFiles",
       "fileLength": 122
     },
     {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/Jisoo.jpg",
-      "folder": "Resources/Sprites/Member",
+      "folder": "public/nct/DataFiles",
       "fileLength": 164388
     },
     {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/jisoo.json",
-      "folder": "DataFolder",
+      "folder": "public/nct/DataFiles",
       "fileLength": 4579
     }
   ]
