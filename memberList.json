@@ -1,19 +1,9 @@
 {
   "member": [
     {
-      "code": "woman",
-      "name": "여자",
-      "picture": "Woman_1.jpg"
-    },
-    {
-      "code": "balloon",
-      "name": "물풍선",
-      "picture": "Balloon_1.jpg"
-    },
-    {
-      "code": "woman2",
-      "name": "메타휴먼",
-      "picture": "Woman_2.jpg"
+      "code": "jisoo",
+      "name": "테스트",
+      "picture": "Jisoo.jpg"
     }
   ]
 }

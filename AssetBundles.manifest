@@ -1,22 +1,7 @@
 ManifestFileVersion: 0
-CRC: 2881231639
+CRC: 2646803103
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: woman
-      Dependencies: {}
-    Info_1:
-      Name: grenade
-      Dependencies: {}
-    Info_2:
-      Name: volcano
-      Dependencies: {}
-    Info_3:
-      Name: balloon
-      Dependencies: {}
-    Info_4:
-      Name: zerotwo
-      Dependencies: {}
-    Info_5:
-      Name: woman2
+      Name: jisoo
       Dependencies: {}
