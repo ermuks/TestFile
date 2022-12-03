@@ -3,7 +3,7 @@
     {
       "fileURL": "https://github.com/ermuks/TestFile/blob/main/AssetBundles.bundle?raw=true",
       "folder": "public/nct/DataFiles",
-      "fileLength": 1024
+      "fileLength": 1018
     },
     {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/AssetBundles.manifest",
@@ -13,7 +13,7 @@
     {
       "fileURL": "https://github.com/ermuks/TestFile/blob/main/jisoo.bundle?raw=true",
       "folder": "public/nct/DataFiles",
-      "fileLength": 56093656
+      "fileLength": 91427006
     },
     {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/jisoo.manifest",
