@@ -8,17 +8,17 @@
     {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/AssetBundles.manifest",
       "folder": "public/nct/DataFiles",
-      "fileLength": 132
+      "fileLength": 133
     },
     {
       "fileURL": "https://github.com/ermuks/TestFile/blob/main/jisoo.bundle?raw=true",
       "folder": "public/nct/DataFiles",
-      "fileLength": 489961495
+      "fileLength": 56093656
     },
     {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/jisoo.manifest",
       "folder": "public/nct/DataFiles",
-      "fileLength": 33574
+      "fileLength": 53376
     },
     {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/memberList.json",
@@ -33,7 +33,7 @@
     {
       "fileURL": "https://raw.githubusercontent.com/ermuks/TestFile/main/jisoo.json",
       "folder": "public/nct/DataFiles",
-      "fileLength": 4608
+      "fileLength": 4597
     }
   ]
 }
